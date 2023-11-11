@@ -14,6 +14,7 @@
 		C035A6DA2AFBAE7900FC841D /* CoreDateBase.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C035A6D82AFBAE7900FC841D /* CoreDateBase.xcdatamodeld */; };
 		C035A6DC2AFBAE7A00FC841D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C035A6DB2AFBAE7A00FC841D /* Assets.xcassets */; };
 		C035A6DF2AFBAE7A00FC841D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C035A6DD2AFBAE7A00FC841D /* LaunchScreen.storyboard */; };
+		C035A6E72AFBB2C000FC841D /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C035A6E62AFBB2C000FC841D /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C035A6DB2AFBAE7A00FC841D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C035A6DE2AFBAE7A00FC841D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C035A6E02AFBAE7A00FC841D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C035A6E62AFBB2C000FC841D /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C035A6CF2AFBAE7900FC841D /* AppDelegate.swift */,
 				C035A6D12AFBAE7900FC841D /* SceneDelegate.swift */,
 				C035A6D32AFBAE7900FC841D /* ViewController.swift */,
+				C035A6E62AFBB2C000FC841D /* DetailsVC.swift */,
 				C035A6D52AFBAE7900FC841D /* Main.storyboard */,
 				C035A6DB2AFBAE7A00FC841D /* Assets.xcassets */,
 				C035A6DD2AFBAE7A00FC841D /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				C035A6D02AFBAE7900FC841D /* AppDelegate.swift in Sources */,
 				C035A6D22AFBAE7900FC841D /* SceneDelegate.swift in Sources */,
 				C035A6DA2AFBAE7900FC841D /* CoreDateBase.xcdatamodeld in Sources */,
+				C035A6E72AFBB2C000FC841D /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
